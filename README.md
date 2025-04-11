@@ -263,7 +263,7 @@ footer {
 
 ## OUTPUT
 OUTPUT
-final output wc
+https://github.com/Mohamed5shakeel/Commercial_Website/blob/main/final%20output%20wc.png
 
 
 
