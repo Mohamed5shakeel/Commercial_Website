@@ -263,7 +263,7 @@ footer {
 
 ## OUTPUT
 OUTPUT
-cm1 cm2 cm3 cm4 cm5 cmoffer cm7
+final output vc
 
 
 
