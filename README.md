@@ -262,6 +262,7 @@ footer {
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/2fe1e7ee-e7af-4eb3-93c9-a20e36eea96b)
 
 
 
